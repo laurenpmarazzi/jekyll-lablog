@@ -1,5 +1,5 @@
 # Site settings
-title: jekyll-lablog # type your own lablog title here
+title: Lauren Marazzi lab notebook # type your own lablog title here
 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,10 +9,10 @@ baseurl: "/jekyll-lablog" # the subpath of your site, e.g. /blog/
 url: "https://fdschneider.github.io" # the base hostname & protocol for your site
 include: [ _assets , _projects ]
 
-name : Your Name
-email :
-github_username:
-twitter_username:
+name : Lauren Marazzi
+email : marazzi@uchc.edu
+github_username: laurenpmarazzi
+twitter_username: laurinformatics
 website : git@github.com:fdschneider/jekyll-lablog.git
 
 # Build settings
